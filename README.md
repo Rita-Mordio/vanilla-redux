@@ -1,1 +1,1 @@
-redux를 이해하기 위해 vanilla javascript 만으로 작성해 본 예제
+Redux를 좀 더 직관적이고 이해하기 쉽도록 vanilla javascript로 구현한 예제
